@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MeerKatta Updates</title>
+        <link>https://raw.githubusercontent.com/curiowls/meerkattasparkle/main/appcast.xml</link>
+        <description>Auto-update feed for MeerKatta on macOS.</description>
+        <language>en</language>
+        <!--
+            Each released DMG appears as an <item> below. The first published
+            release will replace this comment. release-mac.sh generates the
+            <item> XML for each release into build/appcast-entry-<version>.xml;
+            paste it inside <channel></channel> here, commit, push.
+        -->
+    </channel>
+</rss>
