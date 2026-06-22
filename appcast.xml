@@ -6,6 +6,14 @@
         <description>Auto-update feed for MeerKatta on macOS.</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.0 (build 301)</title>
+            <pubDate>Mon, 22 Jun 2026 06:14:33 +0000</pubDate>
+            <sparkle:version>301</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/curiowls/meerkattasparkle/releases/download/v0.1.0-b301/MeerKatta-0.1.0-b301.dmg" length="11680870" type="application/octet-stream" sparkle:edSignature="NQBVQHv/VVdp/mOczE7B/G45t0wFr3P6FjlWMFkaeUfkr3c5Bf3zk21hERK9uVl6TVBSp0QTvQQPkjYWFO1+Cg==" />
+        </item>
+        <item>
             <title>Version 0.1.0 (build 297)</title>
             <pubDate>Mon, 22 Jun 2026 02:13:07 +0000</pubDate>
             <sparkle:version>297</sparkle:version>
