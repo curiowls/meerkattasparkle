@@ -1,6 +1,18 @@
-# MeerKatta Sparkle Update Feed
+# MeerKatta - AI Dictation and Thought Capture
 
-Public release feed for [MeerKatta](https://meerkatta.com) on macOS.
+[MeerKatta](https://meerkatta.com/) is an AI dictation and thought-capture app
+for Mac and iPhone, created by [Lugugul Design](https://lugugul.com/).
+Speak into your work, or save an idea before it slips away. Keep your thoughts
+flowing without pausing to edit.
+
+- [Explore MeerKatta](https://meerkatta.com/)
+- [Download the latest Mac installer](https://github.com/curiowls/meerkattasparkle/releases/latest/download/MeerKatta-latest.dmg)
+- [Get started tips](https://meerkatta.com/welcome/)
+- [Plans and pricing](https://meerkatta.com/pricing/)
+
+## macOS release and update feed
+
+This repository distributes the Mac app and its Sparkle update feed.
 
 This repo holds:
 
