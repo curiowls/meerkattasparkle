@@ -6,6 +6,15 @@
         <description>Auto-update feed for MeerKatta on macOS.</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.1 (build 879)</title>
+            <pubDate>Fri, 06 Nov 2026 21:10:35 +0000</pubDate>
+            <sparkle:version>879</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description>&lt;p&gt;Organize your Library with optional labels, open entries to review and edit their text, and see where you used them. Select notes to merge them while keeping the originals. Library controls now fit smaller windows.&lt;br/&gt;&lt;br/&gt;Choose transcription and polishing providers independently in the reorganized Providers &amp;amp; Keys page. CLI setup shows clearer access information and troubleshooting guidance, and Account &amp;amp; Plan groups your access and license details more clearly.&lt;br/&gt;&lt;br/&gt;Fixes duplicate text insertion and unwanted switches to Dot when dictating into Codex. Fn dictation no longer reacts to arrow keys, and silent captures show “No speech detected”.&lt;br/&gt;&lt;br/&gt;If focus changes before insertion, your text stays available on the clipboard. Library save failures retain a path to retry, and Home separates older device-only statistics from synced activity.&lt;/p&gt;</description>
+            <enclosure url="https://github.com/curiowls/meerkattasparkle/releases/download/v0.1.1-b879/MeerKatta-0.1.1-b879.dmg" length="16487786" type="application/octet-stream" sparkle:edSignature="8LzO4ASlXIziwuOZn5QNB7EETGh21LVXezj8UDkRswCCJvbkbDEWXl4UAk/NPlOxGm6oEp9iletUHPNtL2iBCA==" />
+        </item>
+        <item>
             <title>Version 0.1.0 (build 604)</title>
             <pubDate>Sun, 27 Sep 2026 15:10:51 +0000</pubDate>
             <sparkle:version>604</sparkle:version>
