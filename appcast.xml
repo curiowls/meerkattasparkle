@@ -6,6 +6,15 @@
         <description>Auto-update feed for MeerKatta on macOS.</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.1 (build 893)</title>
+            <pubDate>Sat, 21 Nov 2026 06:57:02 +0000</pubDate>
+            <sparkle:version>893</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description>&lt;p&gt;MeerKatta optimized the detection for non-speech audio input, so background sounds are less likely to turn into stray text.&lt;br/&gt;Use “Teach correction” after editing a Capture or Library item to preview and save a preferred spelling.&lt;br/&gt;Fix Home page fault alarm bug.&lt;br/&gt;Fix count words in accuracy in Chinese and Japanese.&lt;br/&gt;BYOK: improved local transcriber setup.&lt;br/&gt;When polishing is unavailable, MeerKatta keeps your transcript and shows how to recover.&lt;/p&gt;</description>
+            <enclosure url="https://github.com/curiowls/meerkattasparkle/releases/download/v1.0.1-b893/MeerKatta-1.0.1-b893.dmg" length="20236921" type="application/octet-stream" sparkle:edSignature="d9/xlnMD7mNpbPmrPSxjiKQyBnWpED9/2Qyvm4kqcTguvpzeX04+e540QIrV+W5z9hScYTw8FLhSIJoFTJgQAQ==" />
+        </item>
+        <item>
             <title>Version 1.0.0 (build 888)</title>
             <pubDate>Mon, 16 Nov 2026 03:18:19 GMT</pubDate>
             <sparkle:version>888</sparkle:version>
