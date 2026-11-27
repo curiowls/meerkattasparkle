@@ -6,6 +6,15 @@
         <description>Auto-update feed for MeerKatta on macOS.</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.2 (build 903)</title>
+            <pubDate>Fri, 27 Nov 2026 04:43:37 GMT</pubDate>
+            <sparkle:version>903</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description>&lt;p&gt;• Improved direct dictation injection in apps previously missing from the Electron Accessibility wake-up list.&lt;br/&gt;• Custom Vocabulary now accepts recurring mishearings separated by commas or line breaks.&lt;/p&gt;</description>
+            <enclosure url="https://github.com/curiowls/meerkattasparkle/releases/download/v1.0.2-b903/MeerKatta-1.0.2-b903.dmg" length="20233982" type="application/octet-stream" sparkle:edSignature="WbUvG3cFQ8qxGml6fl2REQxbq4Xc1Vnv+6hvEkN2CA0jSoBtpiLybOTmEGllF7TfzpKfjnpdSyKa2TGY4bXGAQ==" />
+        </item>
+        <item>
             <title>Version 1.0.1 (build 895)</title>
             <pubDate>Mon, 23 Nov 2026 03:40:00 +0000</pubDate>
             <sparkle:version>895</sparkle:version>
